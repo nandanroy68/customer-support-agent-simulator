@@ -1,4 +1,4 @@
-**🚀 Customer Support Agent Simulator**
+**🚀 Customer Support Agent Simulator
 *Retrieval-Augmented AI Support Agent with Sentiment Analysis, Escalation Logic & Multi-Turn Memory*
 
 *This project is a production-ready GenAI-powered customer support system that uses:
