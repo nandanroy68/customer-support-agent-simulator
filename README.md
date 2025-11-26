@@ -11,7 +11,6 @@ FastAPI backend
 Redis conversation memory
 Sentiment analysis (Transformers)
 Escalation triggers
-React (Vite) frontend
 
 It simulates a real-world AI support agent capable of answering customer queries using uploaded PDFs, FAQs, and manuals — with human-like empathy and safe fallback behaviors.
 
